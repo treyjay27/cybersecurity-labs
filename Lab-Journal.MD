@@ -22,5 +22,5 @@ Lab-Journal.MD
   Learned about SOCs, SIEMs, threat intelligence, and the structure of a blue team. Prepares for deeper detection and response work.
 
 ## June 17, 2025
-- ✅ Created GitHub repo to document all lab work  
-- ✅ Started TryHackMe **Blue Team Path**
+- ✅ Created GitHub repo to document all lab work.
+
