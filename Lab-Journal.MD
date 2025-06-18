@@ -24,3 +24,10 @@ Lab-Journal.MD
 ## June 17, 2025
 - ✅ Created GitHub repo to document all lab work.
 
+## June 18, 2025  
+- ✅ Completed **Splunk: Fundamentals** (TryHackMe)  
+  Learned how to ingest data into Splunk using the Upload method.  
+  Practiced setting source types (e.g., `_json`) and selecting indexes.  
+  Gained experience with core SIEM functions and the Splunk web UI.  
+  Set the stage for log analysis, detection engineering, and blue team work.
+
