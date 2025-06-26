@@ -31,3 +31,9 @@ Lab-Journal.MD
   Gained experience with core SIEM functions and the Splunk web UI.  
   Set the stage for log analysis, detection engineering, and blue team work.
 
+## June 25, 2025
+✅ Completed Bypass Very Simple Security (TryHackMe)
+Learned how to extract and manipulate authentication cookies to bypass a login system.
+Used Python to simulate a POST request and grab valid WordPress session cookies.
+Manually injected cookies into the browser session to gain unauthorized access to the admin dashboard.
+Practiced hands-on web exploitation and session hijacking fundamentals.
