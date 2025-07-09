@@ -37,3 +37,11 @@ Learned how to extract and manipulate authentication cookies to bypass a login s
 Used Python to simulate a POST request and grab valid WordPress session cookies.
 Manually injected cookies into the browser session to gain unauthorized access to the admin dashboard.
 Practiced hands-on web exploitation and session hijacking fundamentals.
+
+## July 5th
+✅ Completed Security Operations (TryHackMe)
+Explored the workflow and responsibilities of a Security Operations Center (SOC).
+Learned how analysts use logs, alerts, and tools to detect and respond to threats.
+Reviewed playbooks, triage processes, escalation paths, and incident response life cycle.
+Reinforced knowledge of blue team roles and daily operations.
+
