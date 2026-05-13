@@ -1,47 +1,151 @@
-Lab-Journal.MD
-/TryHackMe/
+#TryHackMe Cybersecurity Lab Journal
 
-## June 10, 2025
-- ✅ Completed **What is Networking?**  
-  Reviewed basics of IP addresses, routers, switches, DNS, and packet flow. Set foundation for future protocol and traffic analysis.
+This repository documents my hands-on cybersecurity training through TryHackMe labs, including networking, reconnaissance, offensive security, defensive security, SIEM fundamentals, Splunk, SOC workflows, and web authentication concepts.
 
-## June 11, 2025
-- ✅ Completed **Careers in Cyber**  
-  Explored different cybersecurity job roles and career paths. Gained awareness of potential specializations.
+The goal of this journal is to show consistent hands-on learning, technical documentation, and practical security skill development.
 
-## June 12, 2025
-- ✅ Completed **Cybersecurity Search Skills**  
-  Practiced Google dorking and advanced search techniques. Learned how attackers and researchers use search engines for recon.
+## Certification
+------------------------------------
+**CompTIA Security+ Certified**  
+Passed: May 2026
+------------------------------------
 
-## June 14, 2025
-- ✅ Completed **Offensive Security Intro**  
-  Hands-on exposure to vulnerability scanning and basic web exploitation. Understood attacker mindset and tools like `nmap`.
+## May 06, 2026 — What is Networking?
 
-## June 15, 2025
-- ✅ Completed **Defensive Security Intro**  
-  Learned about SOCs, SIEMs, threat intelligence, and the structure of a blue team. Prepares for deeper detection and response work.
+**Focus:** Networking fundamentals
 
-## June 17, 2025
-- ✅ Created GitHub repo to document all lab work.
+**Summary:**  
+Reviewed IP addresses, routers, switches, DNS, and packet flow. Built a foundation for understanding network traffic, protocols, and future traffic analysis.
 
-## June 18, 2025  
-- ✅ Completed **Splunk: Fundamentals** (TryHackMe)  
-  Learned how to ingest data into Splunk using the Upload method.  
-  Practiced setting source types (e.g., `_json`) and selecting indexes.  
-  Gained experience with core SIEM functions and the Splunk web UI.  
-  Set the stage for log analysis, detection engineering, and blue team work.
+**Skills practiced:**  
+- IP addressing
+- DNS basics
+- Routers and switches
+- Packet flow
+- Network fundamentals
 
-## June 25, 2025
-✅ Completed Bypass Very Simple Security (TryHackMe)
-Learned how to extract and manipulate authentication cookies to bypass a login system.
-Used Python to simulate a POST request and grab valid WordPress session cookies.
-Manually injected cookies into the browser session to gain unauthorized access to the admin dashboard.
-Practiced hands-on web exploitation and session hijacking fundamentals.
+---
 
-## July 5th
-✅ Completed Security Operations (TryHackMe)
-Explored the workflow and responsibilities of a Security Operations Center (SOC).
-Learned how analysts use logs, alerts, and tools to detect and respond to threats.
-Reviewed playbooks, triage processes, escalation paths, and incident response life cycle.
-Reinforced knowledge of blue team roles and daily operations.
+## May 06, 2026 — Careers in Cyber
+
+**Focus:** Cybersecurity career paths
+
+**Summary:**  
+Explored cybersecurity job roles, career paths, and common specializations. Gained a better understanding of how different security roles support business and technical operations.
+
+**Skills practiced:**  
+- Cybersecurity role awareness
+- Career path planning
+- Security team structure
+
+---
+
+## May 07, 2026 — Cybersecurity Search Skills
+
+**Focus:** Search techniques and reconnaissance
+
+**Summary:**  
+Practiced advanced search techniques, including Google dorking, to understand how attackers and security researchers use public information during reconnaissance.
+
+**Skills practiced:**  
+- Google dorking
+- OSINT basics
+- Search operators
+- Reconnaissance concepts
+
+---
+
+## May 07, 2026 — Offensive Security Intro
+
+**Focus:** Offensive security fundamentals
+
+**Summary:**  
+Completed introductory offensive security training covering vulnerability scanning, basic web exploitation, and attacker methodology in a controlled lab environment.
+
+**Skills practiced:**  
+- Vulnerability scanning
+- Nmap basics
+- Web exploitation concepts
+- Attacker mindset
+
+---
+
+## May 08, 2026 — Defensive Security Intro
+
+**Focus:** Defensive security and blue team operations
+
+**Summary:**  
+Reviewed SOC operations, SIEM tools, threat intelligence, and blue team responsibilities. Built a foundation for detection, monitoring, and incident response work.
+
+**Skills practiced:**  
+- SOC fundamentals
+- SIEM concepts
+- Threat intelligence basics
+- Blue team operations
+
+---
+
+## May 09, 2026 — GitHub Lab Documentation Setup
+
+**Focus:** Technical documentation
+
+**Summary:**  
+Created a GitHub repository to document cybersecurity labs, tools used, lessons learned, and hands-on training progress.
+
+**Skills practiced:**  
+- GitHub documentation
+- Markdown
+- Technical writing
+- Portfolio development
+
+---
+
+## May 09, 2026 — Splunk: Fundamentals
+
+**Focus:** SIEM and log analysis
+
+**Summary:**  
+Completed TryHackMe’s Splunk fundamentals lab. Practiced uploading data into Splunk, configuring source types, selecting indexes, and navigating the Splunk web interface.
+
+**Skills practiced:**  
+- Splunk Web UI
+- Data ingestion
+- Source types
+- Index selection
+- SIEM fundamentals
+- Log analysis basics
+
+---
+
+## May 11, 2026 — Bypass Very Simple Security
+
+**Focus:** Web authentication and session security
+
+**Summary:**  
+Completed a controlled web security lab involving authentication cookies and session handling. Used Python to simulate a POST request, captured valid WordPress session cookies, and manually injected cookies into a browser session to understand authentication bypass concepts.
+
+**Skills practiced:**  
+- Web authentication
+- Cookie manipulation
+- Session handling
+- Python requests
+- Authentication bypass concepts
+- Web exploitation fundamentals
+
+---
+
+## May 12, 2026 — Security Operations
+
+**Focus:** SOC workflows and incident response
+
+**Summary:**  
+Explored the responsibilities and workflow of a Security Operations Center. Reviewed how analysts use logs, alerts, playbooks, triage, escalation paths, and incident response processes to detect and respond to threats.
+
+**Skills practiced:**  
+- SOC operations
+- Alert triage
+- Log review
+- Playbooks
+- Escalation paths
+- Incident response life cycle
 
