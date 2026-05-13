@@ -1,4 +1,4 @@
-#TryHackMe Cybersecurity Lab Journal
+# TryHackMe Cybersecurity Lab Journal
 
 This repository documents my hands-on cybersecurity training through TryHackMe labs, including networking, reconnaissance, offensive security, defensive security, SIEM fundamentals, Splunk, SOC workflows, and web authentication concepts.
 
